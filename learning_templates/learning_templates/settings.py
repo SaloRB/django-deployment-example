@@ -26,7 +26,7 @@ SECRET_KEY = 'imar-=)h__#qy&)++e%@_5o6l1@yo+1oexvn+$9kpw=&6a&d%*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['salorb.pythonanywhere.com']
 
 
 # Application definition
